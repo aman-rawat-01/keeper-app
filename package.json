@@ -1,7 +1,11 @@
 {
-  "name": "music-app",
+  "name": "keeper-app",
   "version": "0.1.0",
   "private": true,
+  "engines": {
+    "node": "14.16.0",
+    "npm":"6.14.11"
+  },
   "dependencies": {
     "@material-ui/core": "^4.11.3",
     "@material-ui/icons": "^4.11.2",
